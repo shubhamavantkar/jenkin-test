@@ -1,2 +1,2 @@
-print("Hello buddy!!")
+print("Happy friendship day!!")
 print("testing build trigger")

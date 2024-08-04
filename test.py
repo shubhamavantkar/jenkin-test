@@ -1,2 +1,2 @@
 print("Happy friendship day!!")
-print("testing build trigger"
+print("testing build trigger")
